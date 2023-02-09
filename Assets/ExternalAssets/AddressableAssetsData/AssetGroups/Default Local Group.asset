@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8c86ce566aa973447938b06bcb9eccea
+  m_SerializeEntries:
+  - m_GUID: b2552e383ee558f48979d76c046b38da
+    m_Address: Loader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5eec36dde0335341a6efb4bf7aa6546
+    m_Address: MainWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e25df52d7841dd446bd7df10e3f7d242
+    m_Address: LivesPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe7563cd46eb9d34abfb54c37bc289ae
+    m_Address: DailyBonusPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 847b7d57d9886f74eb15579338bae62d
+    m_Address: UIRoot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d23f5373f70cd614aaddea48158a0043
+    m_Address: Config
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 031560ee6d9e4c2439f49f1c57a919e7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9b137d1240a4f63468c956796c7c31c9, type: 2}
+    - {fileID: 11400000, guid: 3189f2ff14d875f4f97aa17b03cf50df, type: 2}
