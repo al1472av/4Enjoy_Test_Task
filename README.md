@@ -1,3 +1,6 @@
+<details>
+  <summary>Task</summary>
+
 # Task
 
 General requirements: 
@@ -67,7 +70,11 @@ close.
 	3. On the third and next days, the player receives the sum of 100% of the coins from the day before and 60% of the coins from the day before and 60% of the coins of the previous day. The number of coins received is rounded. 
 Example: On September 3, the player will receive 60% of the coins from September 2 and 100% of the coins from
 September 1
+</details>
 
+<details>
+  <summary>Description</summary>
+  
 # Description
 
 ## Used plugins
@@ -125,3 +132,4 @@ Game has save\load system. Game has live refill system while its closed. At the 
 Daily reward will be given 1 time, if you want to test it again, you can delete save file by "Tools/Player Data/Delete save". I have clamped value of given reward because with the system that was mentioned in task the values goes to infinity.
 
 Unfocus* - focus on another application, not Unity. Its not about pause button in editor.
+</details>
